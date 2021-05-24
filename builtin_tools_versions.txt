@@ -1,0 +1,4 @@
+energia.dslite=9.2.0.1793-e1
+energia.dslite=9.2.0.1793-e1
+energia.dslite=9.2.0.1793-e1
+energia.dslite=9.2.0.1793-e1

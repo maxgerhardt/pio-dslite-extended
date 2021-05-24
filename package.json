@@ -1,0 +1,16 @@
+{
+  "name": "tool-dslite",
+  "version": "1.90200.1793",
+  "description": "Uniflash Standalone Flash Tool for TI Microcontrollers, Sitara Processors & SimpleLink devices",
+  "keywords": [
+    "tools",
+    "uploader"
+  ],
+  "homepage": "http://www.ti.com/tool/UNIFLASH",
+  "system": [
+    "windows",
+    "windows_amd64",
+    "windows_x86"
+  ]
+}
+
